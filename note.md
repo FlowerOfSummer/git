@@ -17,6 +17,6 @@
 ### 回退commit
 * git reset --soft   // 回退到指定commit，该commit之后的提交内容，保留工作目录，并把重置 HEAD 所带来的新的差异放进暂存区
 * git reset --hard   // 回退到指定commit，该commit之后的提交内容，工作区和暂存区的内容都被抹掉
-
+ 
 
 
